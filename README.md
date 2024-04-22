@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+![Alt Text](media/ozzy.gif)
 
 <!--
 **mortorit/mortorit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
